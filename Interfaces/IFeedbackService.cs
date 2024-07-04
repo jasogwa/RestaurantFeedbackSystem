@@ -1,6 +1,4 @@
 ﻿using RestaurantFeedbackSystem.DTOs;
-using System.Collections.Generic;
-using System.Threading.Tasks;
 
 namespace RestaurantFeedbackSystem.Interfaces
 {

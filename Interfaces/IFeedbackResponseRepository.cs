@@ -1,5 +1,4 @@
 ﻿using RestaurantFeedbackSystem.Models;
-using System.Threading.Tasks;
 
 namespace RestaurantFeedbackSystem.Interfaces
 {
