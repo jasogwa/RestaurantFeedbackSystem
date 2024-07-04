@@ -7,3 +7,5 @@
 	*	Add-Migration 'InitialMigration'
 	*	Update-Database -Migration 'InitialMigration'
 * Compile and Run
+
+* N.B: you need to replace the Server name in appsettings.json with yours
